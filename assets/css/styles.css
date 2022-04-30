@@ -375,7 +375,7 @@ input {
   position: absolute;
   right: 0;
   bottom: 1rem;
-  width: 228px;
+  width: 120px;
   border-radius: 3%;
 }
 
@@ -395,7 +395,7 @@ input {
 }
 
 .home__info-img {
-  width: 145px;
+  width: 120px;
   transition: var(--img-transition);
 }
 
