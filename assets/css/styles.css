@@ -329,7 +329,7 @@ input {
 .home__data-title {
   font-size: var(--biggest-font-size);
   font-weight: var(--font-semi-bold);
-  margin-bottom: var(--mb-2-5);
+  margin-bottom: var(--mb-0-5);
   margin-top: auto;
   color: #4c5b5d;
 }
@@ -375,7 +375,7 @@ input {
   position: absolute;
   right: 0;
   bottom: 1rem;
-  width: 180px;
+  width: 140px;
   border-radius: 3%;
 }
 
@@ -408,9 +408,10 @@ input {
   display: inline-block;
   background-color: #c6d589;
   color: var(--white-color);
-  padding: 1rem 2rem;
-  font-weight: var(--font-semi-bold);
+  padding: 0.4rem 0.9rem;
+  font-weight: var(--smaller-font-size);
   transition: .3s;
+  border-radius: 3%;
 }
 
 .button:hover {
