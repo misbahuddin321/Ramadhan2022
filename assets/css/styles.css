@@ -39,14 +39,14 @@
   --font-semi-bold: 600;
 
   /*========== Margenes Bottom ==========*/
-  --mb-0-25: .27rem;
-  --mb-0-5: .7rem;
-  --mb-0-75: .76rem;
-  --mb-1: 2rem;
-  --mb-1-25: 1.27rem;
-  --mb-1-5: 1.7rem;
-  --mb-2: 3rem;
-  --mb-2-5: 2.6rem;
+  --mb-0-25: .22rem;
+  --mb-0-5: .2rem;
+  --mb-0-75: .72rem;
+  --mb-1: 1rem;
+  --mb-1-25: 1.22rem;
+  --mb-1-5: 1.2rem;
+  --mb-2: 2rem;
+  --mb-2-5: 2.2rem;
 
   /*========== z index ==========*/
   --z-tooltip: 10;
@@ -375,7 +375,7 @@ input {
   position: absolute;
   right: 0;
   bottom: 1rem;
-  width: 128px;
+  width: 180px;
   border-radius: 3%;
 }
 
@@ -395,7 +395,7 @@ input {
 }
 
 .home__info-img {
-  width: 180px;
+  width: 300px;
   transition: var(--img-transition);
 }
 
