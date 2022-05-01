@@ -395,7 +395,7 @@ input {
 }
 
 .home__info-img {
-  width: 300px;
+  width: 800px;
   transition: var(--img-transition);
 }
 
